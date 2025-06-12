@@ -1,6 +1,7 @@
-# Coffee-Shop-Sales-Analysis-Power-Bi
-# ☕ Coffee Shop Sales Dashboard
 
+# ☕ Coffee Shop Sales Analysis Dashboard
+
+![image](https://github.com/user-attachments/assets/106c4a70-f725-4417-bf78-1c638007bf30)
 
 
 ## 📊 Project Overview
@@ -47,6 +48,17 @@ The dataset includes:
 Each row represents an individual transaction with timestamped data, allowing for granular time-based analysis.
 
 ---
+
+## ✅ What I Did
+
+- 🧼 **Data Cleaning & Modeling**
+  - Parsed and formatted date/time columns
+  - Created relationships between tables for accurate drilldowns and slicing.
+- 🧠 **DAX for Calculated Columns and Measures**
+  - Created dynamic measures for Total Sales, Orders, Quantity, and Month-on-Month comparisons.
+- 🎨 **Custom Visuals & Formatting**
+  - Used donut charts, heatmaps, bar graphs, and average lines for rich visual storytelling.
+
 
 ## 📈 Visualizations Used
 - Calendar Heatmap (daily sales with tooltips)
